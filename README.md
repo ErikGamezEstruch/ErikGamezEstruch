@@ -57,8 +57,6 @@ My background in IT systems gives me a solid technical foundation that helps me 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-REST APIs · OOP · MVC Architecture · IT Support · Hardware Diagnostics  
-
 ---
 
 ## 💼 Professional Experience
