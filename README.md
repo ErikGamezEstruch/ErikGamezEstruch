@@ -77,7 +77,7 @@ My background in IT systems gives me a solid technical foundation that helps me 
 ## 🌍 Languages
 Spanish – Native  
 Catalan – Native  
-English – B1  
+English – A2  
 
 ---
 
