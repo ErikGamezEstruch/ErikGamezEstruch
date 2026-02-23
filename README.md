@@ -62,8 +62,3 @@ English – B1
 📧 erikestruchgamez@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/erik-gamez-estruch
 
----
-
-## 📊 GitHub Stats
-
-(Here you can keep your GitHub stats cards)
