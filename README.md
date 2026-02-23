@@ -60,7 +60,6 @@ English – B1
 ## 📫 Contact
 
 📧 erikestruchgamez@gmail.com  
-📱 +34 XXX XXX XXX  
 💼 LinkedIn: https://linkedin.com/in/ErikGamezEstruch  
 
 ---
