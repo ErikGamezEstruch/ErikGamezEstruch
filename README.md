@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Erik Gamez Estruch
+# Hi, I'm Erik Gamez Estruch
 
 🎓 Higher Technician in Multiplatform Application Development (DAM)  
 💻 IT Technician specialized in systems, networks and software development  
